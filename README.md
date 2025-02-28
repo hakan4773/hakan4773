@@ -1,5 +1,5 @@
 # Hello , I'm  Hakan Bulduk 👋 | Software Developer
-👨‍💻 I am a Computer Engineer and React, Node.js & Next JS developer.  
+👨‍💻 I am a Software Developer and React, Node.js & Next JS developer.  
 🚀 I deal with web projects and backend development.I love learning new technologies and developing projects.
  
 ## 🛠️ Technologies & Tools 
