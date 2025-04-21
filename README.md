@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I am a Software Developer and React, Node.js & Next JS developer.<br>🚀 I deal with web projects and backend development.I love learning new technologies and developing projects.
+👨‍💻 I am a Software Developer and I developing React, Node.js & Next JS project.<br>🚀 I deal with web projects and backend development.I love learning new technologies and developing projects.
 
 
 ## 🌐 Socials:
