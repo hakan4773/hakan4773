@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I am a Software Developer and I developing React, Node.js & Next JS project.<br>🚀 I deal with web projects and backend development.I love learning new technologies and developing projects.
+👨‍💻Ben Hakan Bulduk. Yeni mezun bir bilgisayar mühendisi olarak sadece kod yazmak değil, gerçek dünya problemlerini çözmek için yazılım üretmeye odaklandım. MERN Stack (MongoDB, Express.js, React.js, Node.js) üzerine geliştirdiğim projelerde login, register, içerik yönetimi, admin paneli gibi birçok modülü devreye aldım. TailwindCSS ile arayüz tasarımı, MongoDB ile veri modelleme ve Express.js ile API mimarisi gibi alanlarda aktif geliştirme yaptım. Aynı zamanda Türkçe haber verileri üzerinden içerik tabanlı öneri sistemleri geliştirerek metin sınıflandırma ve kullanıcı kişiselleştirmesi üzerine Tübitak onaylı projelerde görev aldım. Amacım; teknik yetkinliğimi sürekli geliştirerek, çözüm odaklı, ölçeklenebilir ve kullanıcı dostu sistemler inşa eden bir yazılım geliştirici olarak değer üretmek.
 
 
 ## 🌐 Socials:
