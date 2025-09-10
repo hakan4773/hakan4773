@@ -1,7 +1,5 @@
 # 💫 About Me:
 👋 Hi, I’m Hakan Bulduk, a Computer Engineering graduate passionate about building scalable, user-friendly, and innovative software solutions.
-<img width="1000" height="300" alt="linkedin" src="https://github.com/user-attachments/assets/baa45380-e6bd-4f44-a648-5b0eefdee843" />
-
 I specialize in Full-Stack Development with hands-on experience in:  
 <b>Frontend</b>: React, Next.js, TypeScript, Tailwind CSS, Material UI  
 <b>Backend</b>: Node.js, Express.js, Supabase, MongoDB, MSSQL  
